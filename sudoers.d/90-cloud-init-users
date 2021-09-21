@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.2-3-g899bfaa9-0ubuntu2~20.04.1 on Tue, 21 Sep 2021 22:32:53 +0000
+
+# User rules for sser
+sser ALL=(ALL) NOPASSWD:ALL
